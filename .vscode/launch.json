@@ -1,0 +1,196 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ahmadzaky_50422138",
+      "request": "launch",
+      "mainClass": "ahmadzaky_50422138",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "coba",
+      "request": "launch",
+      "mainClass": "coba",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "FerryPebriansyah_50422572",
+      "request": "launch",
+      "mainClass": "FerryPebriansyah_50422572",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "matriks3x3",
+      "request": "launch",
+      "mainClass": "matriks3x3",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "Matriks3x3",
+      "request": "launch",
+      "mainClass": "Matriks3x3",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA_7",
+      "request": "launch",
+      "mainClass": "LA_7",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "Vektor",
+      "request": "launch",
+      "mainClass": "MATIF2_JAWIR.Vektor",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA_6",
+      "request": "launch",
+      "mainClass": "LA_6",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "act",
+      "request": "launch",
+      "mainClass": "act",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "latihan2",
+      "request": "launch",
+      "mainClass": "latihan2",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "example",
+      "request": "launch",
+      "mainClass": "example",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "latihan",
+      "request": "launch",
+      "mainClass": "latihan",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "operatorperbandingan",
+      "request": "launch",
+      "mainClass": "operatorperbandingan",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "operatormatematika",
+      "request": "launch",
+      "mainClass": "operatormatematika",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA_4",
+      "request": "launch",
+      "mainClass": "LA_4",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA_1",
+      "request": "launch",
+      "mainClass": "LA_1",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA33",
+      "request": "launch",
+      "mainClass": "LA33",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "LA1",
+      "request": "launch",
+      "mainClass": "LA1",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA2",
+      "request": "launch",
+      "mainClass": "LA2",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA22",
+      "request": "launch",
+      "mainClass": "LA22",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA3",
+      "request": "launch",
+      "mainClass": "LA3",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "LA4",
+      "request": "launch",
+      "mainClass": "LA4",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "Ujian",
+      "request": "launch",
+      "mainClass": "Ujian",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "laal",
+      "request": "launch",
+      "mainClass": "laal",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
+      "name": "matif",
+      "request": "launch",
+      "mainClass": "matif",
+      "projectName": "LABTI_3e97b74a"
+    }
+  ]
+}
