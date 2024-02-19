@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LA_2",
+      "request": "launch",
+      "mainClass": "LA_2",
+      "projectName": "LABTI_3e97b74a"
+    },
+    {
+      "type": "java",
       "name": "ahmadzaky_50422138",
       "request": "launch",
       "mainClass": "ahmadzaky_50422138",
